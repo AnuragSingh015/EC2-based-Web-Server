@@ -32,4 +32,4 @@ http://3.7.248.166
 ## Detailed Documentation
 A detailed step-by-step explanation of this project is available in the repository document:
 
-`EC2-based Web Server – Configure Apache on an EC2 instance.pdf`
+[Project Documentation](./ec2-apache-web-server-documentation.pdf)
