@@ -22,8 +22,6 @@ Access the deployed webpage using the EC2 Public IP:
 http://3.7.248.166
 ![Architecture Diagram](output.png)
 
-## Architecture Diagram
-![Architecture Diagram](architecture.png)
 
 ## Key Learning
 - Deploying a web server on EC2
